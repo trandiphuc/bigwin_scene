@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "coin_spining",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.36666666666666664,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "f6f2f5fd-b961-443c-97c5-53ff65683190"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "4178e8ab-3761-4bc7-b7a8-a5c79d161771"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "c42b97bb-9ee8-4876-af10-7038ab00c427"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "4178e8ab-3761-4bc7-b7a8-a5c79d161771"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

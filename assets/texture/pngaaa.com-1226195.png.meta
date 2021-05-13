@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "3c755654-9d9e-4f46-b31a-c06c7d2702a2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "pngaaa.com-1226195": {
+      "ver": "1.0.4",
+      "uuid": "98c41f1a-0309-4fb3-9170-863065e0df0a",
+      "rawTextureUuid": "3c755654-9d9e-4f46-b31a-c06c7d2702a2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 467,
+      "height": 276,
+      "rawWidth": 468,
+      "rawHeight": 277,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
